@@ -1,4 +1,4 @@
-# The following codebook summarizes the data contained in tidy_data.txt:
+### The following codebook summarizes the data contained in tidy_data.txt:
 
 ## Identifiers
   - Subject
