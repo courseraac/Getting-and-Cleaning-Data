@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-The script Run_analysis.R does the following:
+The script 'Run_analysis.R' does the following:
   1. Downloads the necessary datasets
   2. Loads the training and testing information, as well as subjects and features
   3. Merges the training and testing datasets to create a single dataset
